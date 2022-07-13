@@ -2,4 +2,4 @@ Hello there!
 My name Nick;
 
 
-https://www.codewars.com/users/WhiteKit/badges/micro
+<a url="https://www.codewars.com/users/WhiteKit/badges/micro"><img src="" alt="codewars"></a>
