@@ -2,4 +2,4 @@ Hello there!
 My name Nick;
 
 
-<img src="codewars.com/users/WhiteKit/badges/large.svg" alt="codewars badges">
+<img src="https://www.codewars.com/users/WhiteKit/badges/large" alt="codewars badges">
