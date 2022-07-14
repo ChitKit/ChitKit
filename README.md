@@ -8,7 +8,7 @@ My progress on Codewars:
 
 
 My stat:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitKit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChitKit&layout=compact)](https://github.com/ChitKit/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitKit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChitKit)](https://github.com/ChitKit/github-readme-stats)
