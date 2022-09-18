@@ -1,6 +1,6 @@
 # Hi, I'm Nikita Zheltov
 
-## Front-end developer
+## Fullstack JavaScript Developer
 
 ## My stack:
 
