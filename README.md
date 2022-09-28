@@ -1,8 +1,6 @@
 # Hi, I'm Nikita Zheltov
 
 ## Fullstack JavaScript Developer
-<!-- <img url="https://www.codewars.com/users/WhiteKit/badges/small"> -->
-<img src="https://www.codewars.com/users/WhiteKit/badges/small" alt="codewars badges">
 
 ## Tech stack
 
